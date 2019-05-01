@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+
 }
 
 header {
@@ -19,4 +20,9 @@ header {
   width: 10px;
   height: 10px;
   border-radius: 50%;
+}
+
+h1, h3{
+   text-shadow: 3px 3px 2px #313140;
+   color: #fff;
 }
