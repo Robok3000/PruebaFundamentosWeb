@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  color: #fff
 
 }
 
@@ -12,17 +13,15 @@ header {
 }
 
 
-.carousel-indicators {
-  top: 50px;
-}
-
-.carousel-indicators li {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-}
-
-h1, h3{
+h1, h2, h3{
    text-shadow: 3px 3px 2px #313140;
    color: #fff;
+}
+
+.card, .contact{
+  color: #000
+}
+
+.carousel-item, img {
+  margin: auto;
 }
