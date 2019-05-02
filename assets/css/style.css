@@ -26,3 +26,5 @@ h1, h2, h3{
 .carousel-item, img {
   margin: auto;
 }
+
+@media (min-width: 576px) 
